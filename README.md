@@ -1,4 +1,4 @@
-# 🚀 AI Android App
+# 🚀 AI Chatbot App
 
 > A modern Android application focused on speed, simplicity, and a great user experience.
 
