@@ -32,7 +32,7 @@ Whether you are a developer, recruiter, or user, this repository showcases pract
 > Add screenshots here after uploading them.
 
 ```
-screenshots/home.png
+screenshots/Screenshot_٢٠٢٦٠٨٠٧-٢١٤٢٤١.png
 screenshots/settings.png
 ```
 
