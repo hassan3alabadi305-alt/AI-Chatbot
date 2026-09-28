@@ -1,0 +1,6 @@
+{
+  "name": "AI Chatbot",
+  "description": "Smart AI Chatbot with streaming responses, customizable bot personas, multi-session management, file analysis, PDF/Text export, and code highlighting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
